@@ -14,7 +14,7 @@
           <section class="introduction-section">
               <h1>Presentación</h1>
               <p>¿Miguel?</p>
-              <link rel="stylesheet" href="styles/aboutme.css">
+              <p>¿jugar?</p>
           </section>
           <section class="location-section">
               <h1>De dónde soy</h1>
@@ -33,11 +33,6 @@
           </section>          
           <footer class="content-footer">
               <p>Dejame un saludo en mis redes sociales:</p>
-              <ul class="social">
-                <li><a class="css-is-deranged" href="_TU_DIR_DE_GITHUB_">GitHub</a></li>
-                <li><a class="css-is-deranged" href="_TU_DIR_DE_TWITTER_">Twitter</a></li>
-                <li><a class="css-is-deranged" href="_TU_DIR_DE_INSTAGRAM_">Instagram</a></li>
-            </ul>
           </footer>
 	</body>
 </html>
